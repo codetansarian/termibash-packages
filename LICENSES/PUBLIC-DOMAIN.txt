@@ -1,0 +1,14 @@
+PUBLIC DOMAIN DEDICATION
+=======================
+
+The software listed under "Public Domain" in this repository has been
+released by its authors into the public domain to the greatest extent
+permitted by applicable law. Where a public domain dedication is not
+recognized or is unenforceable, the software is licensed for everyone's
+free use, modification, and redistribution without restriction.
+
+Packages in this repository under this dedication: resolv-conf
+(upstream: musl libc resolver configuration handling).
+
+The upstream project homepage is listed in the package table of this
+README for reference.

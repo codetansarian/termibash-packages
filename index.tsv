@@ -1,0 +1,64 @@
+c-ares	1.34.8	arm	pool/c-ares_1.34.8_arm.tar.gz	ebbed6fb83662a752b299b3e3be13ad29fd1d2d1ae7ad0087282402b3dfe3802	206842	resolv-conf	Library for asynchronous DNS requests (including name resolves)
+ca-certificates	1:2026.09.25	all	pool/ca-certificates_1-2026.09.25_all.tar.gz	24852bc2dcd1c149a3e8e5abbed430858366bc416f0fbfab914b87c3141056c6	109057	-	Common CA certificates
+capstone	5.0.9	arm	pool/capstone_5.0.9_arm.tar.gz	b95606000613d0b365c7ba1f55b2f303e62841584e5df4ea90b941fb5d8d4c80	2225813	-	Lightweight multi-platform, multi-architecture disassembly framework
+clang	21.1.8-3	arm	pool/clang_21.1.8-3_arm.tar.gz	0f62a775e46fd0cee2198c9a8968aefc08236f0d959d1df9d75a1fce35af4e73	43948191	libcompiler-rt,lld,llvm,ndk-sysroot,libllvm	C language frontend for LLVM
+gdbm	1.26-1	arm	pool/gdbm_1.26-1_arm.tar.gz	477560cd8b0d39e50edcc042cd22f8c542ff955f75f9a8e44c68b88af22dee1d	170675	readline	Library of database functions that use extensible hashing
+git	2.56.0	arm	pool/git_2.56.0_arm.tar.gz	2c3eb0c8fa1bcb840e69dd14392f6b747758c1fc53d788e443a0e420f8daec1d	14719978	libcurl,libexpat,libiconv,less,openssl,pcre2,zlib	Fast, scalable, distributed revision control system
+golang	3:1.27.1	arm	pool/golang_3-1.27.1_arm.tar.gz	099680061b9823fb86564cc677797d9fd9e23a82582a8f513dc30c26a3bef3fc	58856865	clang	Go programming language compiler
+less	710	arm	pool/less_710_arm.tar.gz	1d8a1de6e1086862030a2c76d58b6d308abf4dc6e478ad135f95f699c2c0e5bd	154692	ncurses,pcre2	Terminal pager program used to view the contents of a text file one screen at a time
+libandroid-execinfo	0.1-3	arm	pool/libandroid-execinfo_0.1-3_arm.tar.gz	104822a153a093254aa55eb8ae7131c64b18c77e0232c9868bd5636f5bc8521f	10740	-	Shared library for the backtrace system function
+libandroid-glob	0.6-3	arm	pool/libandroid-glob_0.6-3_arm.tar.gz	83af72616ebbad50e1ba5d9b0e78585f28bf0fb1eecfe04aee806c88c054f935	6721	-	Shared library for the glob(3) system function
+libandroid-posix-semaphore	0.1-4	arm	pool/libandroid-posix-semaphore_0.1-4_arm.tar.gz	c70887020eba391ec5ee07021809de700c3014e3e44244d33019b56c3fdb6970	3365	-	Shared library for the posix semaphore system function
+libandroid-support	29-1	arm	pool/libandroid-support_29-1_arm.tar.gz	59fe24ab737ed91e7be1d3e04e91993c5d682a3709b2b685244da674ab205007	11754	-	Library extending the Android C library (Bionic) for additional multibyte, locale and math support
+libbz2	1.0.8-8	arm	pool/libbz2_1.0.8-8_arm.tar.gz	ed9883a1714d2aff9c75e3d610bc9935787dc4002dce3a56bb620a461fde1c1a	27141	-	BZ2 format compression library
+libc++	30	arm	pool/libc++_30_arm.tar.gz	60192cf63ca27aa9e800fe1ef69f6706b4eb435d289254b6199d131d1594b3ef	415674	-	C++ Standard Library
+libcompiler-rt	21.1.8-3	arm	pool/libcompiler-rt_21.1.8-3_arm.tar.gz	c203fee5677844110726d57528a7abd8972d378bb3d2cf300c82b435c8f155ef	4517983	libc++	Compiler runtime libraries for clang
+libcrypt	0.2-6	arm	pool/libcrypt_0.2-6_arm.tar.gz	ef2a05b4de34f23f757f7c25c38e83157be2479a3dbfb2c323f67b7a581c92cb	8913	openssl	A crypt(3) implementation
+libcurl	8.22.0	arm	pool/libcurl_8.22.0_arm.tar.gz	b96549291523742ba4e38dec4b167cff5ffbd47bd728c533b32cc42014b038a7	1113944	libnghttp2,libnghttp3,libngtcp2,libssh2,openssl,zlib	Easy-to-use client-side URL transfer library
+libexpat	2.9.0	arm	pool/libexpat_2.9.0_arm.tar.gz	2f28c9afd913baa2304b783ff051dfa31fa5c0ec2083bd9f72d5983d2b72502c	113048	-	XML parsing C library
+libffi	3.8.0	arm	pool/libffi_3.8.0_arm.tar.gz	bbc666556c9fd941ea67c4b67f9d3c965b6198a5c82c46c9b9f7a76c5dd030aa	39360	-	Library providing a portable, high level programming interface to various calling conventions
+libgcrypt	1.12.4	arm	pool/libgcrypt_1.12.4_arm.tar.gz	2f258211ef4eda1821eac23c0a8395ac5630a07d5821942c7168859bf5d8429d	585407	libgpg-error	General purpose cryptographic library based on the code from GnuPG
+libgmp	6.3.0-2	arm	pool/libgmp_6.3.0-2_arm.tar.gz	0a46429e37128aa863db43abb67627e953ba764127c253c89e8167d6debce81e	354069	libc++	Library for arbitrary precision arithmetic
+libgpg-error	1.61	arm	pool/libgpg-error_1.61_arm.tar.gz	1ec36ded540b9da019b091f0bc2a92b758f0efc5483cd98b48bb2f5ec04268d7	160108	-	Small library that defines common error values for all GnuPG components
+libiconv	1.19	arm	pool/libiconv_1.19_arm.tar.gz	d73e4d3d6f280ed7bd5c3184305c5a6319b6a1cf2e8eeeed40c75d6eeba87b36	750698	-	An implementation of iconv()
+libicu	78.3	arm	pool/libicu_78.3_arm.tar.gz	445018250045f4d1c88de8e7349f266f474ff413746fcf56da463636a54fd1b2	15588402	libc++	International Components for Unicode library
+libidn2	2.3.8-1	arm	pool/libidn2_2.3.8-1_arm.tar.gz	23e38e61aa933ed9723c9f24dd9617efc283c1e2124182c4dc7c79b5ab494722	144978	libandroid-support,libiconv,libunistring	Free software implementation of IDNA2008, Punycode and TR46
+libllvm	21.1.8-3	arm	pool/libllvm_21.1.8-3_arm.tar.gz	8b8c11e402390d71d4493b79caa2227fde7d8e7097f46f4161bd670edd623ff6	45810496	libc++,libffi,libxml2,ncurses,zlib,zstd	Modular compiler and toolchain technologies library
+liblzma	5.8.4	arm	pool/liblzma_5.8.4_arm.tar.gz	b54a9b4db2f6ff4937976780ad1c3e26a9f6957734e17de79131aa1c8e4b65e0	233119	-	XZ-format compression library
+libnghttp2	1.70.0	arm	pool/libnghttp2_1.70.0_arm.tar.gz	c8df53117e7e931975c82589717c07a087a5795c87bc39f26874c028d6d6ab25	115246	-	nghttp HTTP 2.0 library
+libnghttp3	1.18.0	arm	pool/libnghttp3_1.18.0_arm.tar.gz	dc9bbd21e8391756bd1d4008ae2b298be1e2aa45580c2d1a85df5fac81d1bb41	85287	-	HTTP/3 library written in C
+libngtcp2	1.25.0	arm	pool/libngtcp2_1.25.0_arm.tar.gz	c72dd2e323152423bddde5faab09dfbba4c3e188a6ccb7e705c325fdb4a33a61	231241	openssl	Implementation of IETF QUIC protocol
+libresolv-wrapper	1.1.8	arm	pool/libresolv-wrapper_1.1.8_arm.tar.gz	7fe05b9950ce7eb758c73463a44eecb425e087d3f6841de93b5f723af4b5a839	11954	resolv-conf	A wrapper for DNS name resolving or DNS faking
+libsqlite	3.53.4	arm	pool/libsqlite_3.53.4_arm.tar.gz	4dfca2be9da67ec178709a14bba0fbd5abce70fb870c39cf2dd86bf88809dc09	1320120	zlib	Library implementing a self-contained and transactional SQL database engine
+libssh2	1.11.1-2	arm	pool/libssh2_1.11.1-2_arm.tar.gz	bc1184680c52687ca6639c0abfd57d62c95568de60b285b78a7a6ae2da9e35e0	230969	openssl,zlib	Client-side library implementing the SSH2 protocol
+libunistring	1.4.2	arm	pool/libunistring_1.4.2_arm.tar.gz	5fd6e24386a064d060c8741c32bae1c1fd4f102fe087279d1c2dde2d9f1eb18d	949346	libandroid-support,libiconv	Library providing functions for manipulating Unicode strings
+libuuid	2.42.4	arm	pool/libuuid_2.42.4_arm.tar.gz	0339596bbc5abc1c1d3b42225821496cac3664083688173380583c09f7759c20	15635	libandroid-posix-semaphore	Library for handling universally unique identifiers
+libxml2	2.15.4-1	arm	pool/libxml2_2.15.4-1_arm.tar.gz	9c9ea06afff8d3e94661171942803d7df875bd33045cec676f707a2d395b6e8a	491003	libandroid-glob,libiconv,zlib	Library for parsing XML documents
+libxslt	1.1.45-1	arm	pool/libxslt_1.1.45-1_arm.tar.gz	1dfe0781be7c418e0d75a11226f9f28ac69af8a320087dcd6f206a4027aa8267	301584	libgcrypt,libgpg-error,libxml2,libandroid-glob	XSLT processing library
+libyaml	0.2.5-5	arm	pool/libyaml_0.2.5-5_arm.tar.gz	41230064ea265744b82cd49c0618cae7e155b28ea9397d07153d29f1fa4761e8	48658	-	LibYAML is a YAML 1.1 parser and emitter written in C
+libzip	1.12	arm	pool/libzip_1.12_arm.tar.gz	aeda6490d82958dc5a33cd27e1a10c1e27bae079c9cb66104c2e7565104e22be	277213	libbz2,liblzma,openssl,zlib,zstd	Library for reading, creating, and modifying zip archives
+lld	21.1.8-3	arm	pool/lld_21.1.8-3_arm.tar.gz	2afa727834e88d5844ca0b6166e6e3a4a0c155cb38f0c6285b3182a417d82032	5559199	libllvm	LLVM-based linker
+llvm	21.1.8-3	arm	pool/llvm_21.1.8-3_arm.tar.gz	9693327c24698b36f48123ad1d22429c9886724e46aab62484b4e52fa17e5744	22618237	libllvm	LLVM modular compiler and toolchain executables
+lua54	5.4.9	arm	pool/lua54_5.4.9_arm.tar.gz	e3eb431eb1f5c8ad0b8887800c7b912f75b59b7943bf291e72a0af77acbba9b1	346456	-	Lua scripting language 5.4.x
+make	4.4.1-1	arm	pool/make_4.4.1-1_arm.tar.gz	e54257bb050e889f8ed476e34217323e4efafdb8c3dbc8c288cd907efccd2692	285065	-	Tool to control the generation of non-source files from source files
+ncurses	6.6.20260307+really6.5.20250830	arm	pool/ncurses_6.6.20260307+really6.5.20250830_arm.tar.gz	7a01e7d9e321f956d9d8386e88cdd447b8e58f6487ed4323460327f99c949b7a	600263	-	Library for text-based user interfaces in a terminal-independent manner
+ncurses-ui-libs	6.6.20260307+really6.5.20250830	arm	pool/ncurses-ui-libs_6.6.20260307+really6.5.20250830_arm.tar.gz	5a405d6a4a2c217c2b6e89cefa58185fe1d596208242e9ec276b6d9a8bc1b86f	33155	ncurses	Libraries for terminal user interfaces based on ncurses
+ndk-sysroot	30	arm	pool/ndk-sysroot_30_arm.tar.gz	f3532824542b1407dad7222ed7a1c853ed4d151bedff87f2e838c6a2fa24b421	3254175	-	System header and library files from the Android NDK needed for compiling C programs
+nodejs	26.4.0-1	arm	pool/nodejs_26.4.0-1_arm.tar.gz	434f76c184b61d4033cd72c2fa914990d8b7732be7ea15d0b93cad7f9b5446b7	13381707	libc++,openssl,c-ares,libicu,libsqlite,zlib,libffi	Open Source, cross-platform JavaScript runtime environment
+npm	11.20.0	all	pool/npm_11.20.0_all.tar.gz	2bcfb8470724a1b47248a9f830c7e00a3ec10ea84cf9db4ab2faa4d960f8f45e	3128001	nodejs	The package manager for JavaScript
+oniguruma	6.9.10-1	arm	pool/oniguruma_6.9.10-1_arm.tar.gz	8c3ee92ebc012c3fbee8f81d376cd6fa34745625346a02f52bad2102f432c092	182454	-	Regular expressions library
+openssl	1:3.6.5	arm	pool/openssl_1-3.6.5_arm.tar.gz	1bc76697c3860666336a09085fd6662a1800ff0365ff81c6c935b7428357e12e	2276972	ca-certificates,zlib	Library implementing the SSL and TLS protocols as well as general purpose cryptography functions
+pcre2	10.49	arm	pool/pcre2_10.49_arm.tar.gz	c7f1ec035823e16838b8e701d1824923b5a76dbbcbea5f4db3cbfc27b843ab29	1454729	-	Perl 5 compatible regular expression library
+php	8.5.1	arm	pool/php_8.5.1_arm.tar.gz	764f3234a7d79f245c9119117f027b80f49b570b43c316c0fc2dbd26da9a4e9e	14135100	capstone,libandroid-glob,libandroid-support,libbz2,libc++,libcurl,libffi,libgmp,libiconv,libicu,libresolv-wrapper,libsqlite,libxml2,libxslt,libzip,oniguruma,openssl,pcre2,readline,tidy,zlib	Server-side, HTML-embedded scripting language
+python	3.14.6-1	arm	pool/python_3.14.6-1_arm.tar.gz	0f397356909cccb0d671830ce55f83417ac7a45cbd37be8d5795a19a36764c78	6505695	gdbm,libandroid-posix-semaphore,libandroid-support,libbz2,libcrypt,libexpat,libffi,liblzma,libsqlite,ncurses,ncurses-ui-libs,openssl,readline,zlib,zstd	Python 3 programming language intended to enable clear programs
+python-pip	26.2.1	all	pool/python-pip_26.2.1_all.tar.gz	fd432f8f340f42ef25bad2616893936bfec913310a7ab2d4d781c2f5ac0da872	1746471	python	The PyPA recommended tool for installing Python packages
+readline	8.3.6	arm	pool/readline_8.3.6_arm.tar.gz	a485e1a2ca44bcab813bc6f7a7e235872e8cfdad44115f2b7c776b4d8e345dc6	469563	libandroid-support,ncurses	Library that allow users to edit command lines as they are typed in
+resolv-conf	1.3	arm	pool/resolv-conf_1.3_arm.tar.gz	e51129be47c1c0012475e919dd87329c2a7d5ad067bfff65345487187e3cdb01	377	-	Resolver configuration file
+ruby	4.0.7	arm	pool/ruby_4.0.7_arm.tar.gz	bb979f3d828eb7e7186fdb8a796b1d02d58e3b529642a7843744b7631ee2e0cc	12674933	libandroid-execinfo,libandroid-support,libffi,libgmp,readline,openssl,libyaml,zlib	Dynamic programming language with a focus on simplicity and productivity
+rust	1.99.0	arm	pool/rust_1.99.0_arm.tar.gz	5c12638bc81258c560d8f02e28dd8c3ed38078cbbed4710df820e4957b50b315	87078065	clang,libandroid-execinfo,libc++,libllvm,lld,openssl,zlib,rust-std-armv7-linux-androideabi	Systems programming language focused on safety, speed and concurrency
+rust-std-armv7-linux-androideabi	1.99.0	arm	pool/rust-std-armv7-linux-androideabi_1.99.0_arm.tar.gz	01427f77f51c3fe241bddce1379569b825d07804f5b012030602d44c8312c643	7295240	-	Component files for target armv7-linux-androideabi
+tidy	5.9.14-next-3	arm	pool/tidy_5.9.14-next-3_arm.tar.gz	8dfdb5199bccd37c9913846659396136ec98045a81f060f97f3528bd677695fa	563295	libxslt	A tool to tidy down your HTML code to a clean style
+wget	1.25.0-1	arm	pool/wget_1.25.0-1_arm.tar.gz	d6f257419edfc10ff47b601b274a0b87a474d693fc2a3f48446f7438b6d49e04	309067	libandroid-support,libiconv,libidn2,libuuid,openssl,pcre2,zlib	Commandline tool for retrieving files using HTTP, HTTPS and FTP
+zip	3.0-7	arm	pool/zip_3.0-7_arm.tar.gz	378a1057fe17ebc15cc82245f3ca32661df964558090f1f31f7ebdfc0f243936	243129	libandroid-support,libbz2	Tools for working with zip files
+zlib	1.3.2	arm	pool/zlib_1.3.2_arm.tar.gz	9d3840ed2fa6be03c94f26d856314c93042e955b22a4724ca82964cb11668c9e	72161	-	Compression library implementing the deflate compression method found in gzip and PKZIP
+zstd	1.5.7-1	arm	pool/zstd_1.5.7-1_arm.tar.gz	c4744f77a1620ef2bb70f4959af82a00ae7becf36b48e73262102a4c41a63af5	498593	liblzma,zlib	Zstandard compression
