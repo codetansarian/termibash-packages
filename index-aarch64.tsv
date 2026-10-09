@@ -1,0 +1,34 @@
+c-ares	1.34.8	aarch64	pool/c-ares_1.34.8_aarch64.tar.gz	9c1384a9a9e2bc8752f3564622956adc871cca967756e5de7dcb163a9e61b31d	227552	resolv-conf	Library for asynchronous DNS requests (including name resolves)
+clang	21.1.8-3	aarch64	pool/clang_21.1.8-3_aarch64.tar.gz	96d03c84538900fe11cabab9275d53ff6bc93fef30e89d2878d1ef6c668679eb	49313886	libcompiler-rt,lld,llvm,ndk-sysroot,libllvm	C language frontend for LLVM
+git	2.56.0	aarch64	pool/git_2.56.0_aarch64.tar.gz	23f73bfd160f115465ab89ed277e26afea23bdc7f601a6709fe4e55963a0d9f9	12833770	libcurl,libexpat,libiconv,less,openssl,pcre2,zlib	Fast, scalable, distributed revision control system
+golang	3:1.27.1	aarch64	pool/golang_3-1.27.1_aarch64.tar.gz	f8f3d1dad7fafe73617ffaef19c33d3beb186e3dbd30fe5cb0cdcb0e71cf3481	57426198	clang	Go programming language compiler
+less	710	aarch64	pool/less_710_aarch64.tar.gz	46ba51b35b50ff7aa7957b9e077041e6fd56cbe384a6c2345e0a1529d264f378	170766	ncurses,pcre2	Terminal pager program used to view the contents of a text file one screen at a time
+libandroid-execinfo	0.1-3	aarch64	pool/libandroid-execinfo_0.1-3_aarch64.tar.gz	887b1a65e3ddb503a18b5ea8f65beb2bf0b47aeef2c6ff0351742c58c5c1f802	18069	-	Shared library for the backtrace system function
+libandroid-glob	0.6-3	aarch64	pool/libandroid-glob_0.6-3_aarch64.tar.gz	11dec00eb1c6bd0dc0380b406f29b26b8032d661ca13d7176052fc23cdb376e6	7381	-	Shared library for the glob(3) system function
+libc++	30	aarch64	pool/libc++_30_aarch64.tar.gz	fce27d9478d73268bbc5a6e28905ff99ea4a55dc12f99c1f3d777ddfe8d31b9c	463696	-	C++ Standard Library
+libcompiler-rt	21.1.8-3	aarch64	pool/libcompiler-rt_21.1.8-3_aarch64.tar.gz	0869885c27c27d52fe5a0f5f96d2421bec567f1541ff0c20fb44ea3f0f18f0fa	7572375	libc++	Compiler runtime libraries for clang
+libcurl	8.22.0	aarch64	pool/libcurl_8.22.0_aarch64.tar.gz	197835d38082610ce001930ba0c249171b20d70daae6b66d3310f009f38d575f	1156227	libnghttp2,libnghttp3,libngtcp2,libssh2,openssl,zlib	Easy-to-use client-side URL transfer library
+libexpat	2.9.0	aarch64	pool/libexpat_2.9.0_aarch64.tar.gz	b77f4137fecc58340ac1f41c295a8951d816e6423003fd7f1144bb26fb5bdaed	124455	-	XML parsing C library
+libffi	3.8.0	aarch64	pool/libffi_3.8.0_aarch64.tar.gz	30d5ba159ed043453619370db19b64dacd07b8133f844419056e897cc531f186	44776	-	Library providing a portable, high level programming interface to various calling conventions
+libiconv	1.19	aarch64	pool/libiconv_1.19_aarch64.tar.gz	146723bbb55863a0e8d28bfb9f8816c3e292b768ec7f044eef4452065b9c4107	763395	-	An implementation of iconv()
+libicu	78.3	aarch64	pool/libicu_78.3_aarch64.tar.gz	9f8664380263d9c005cb938f90bb517fb74b3d809079b5ddd47ce08a83f659bb	15967713	libc++	International Components for Unicode library
+libllvm	21.1.8-3	aarch64	pool/libllvm_21.1.8-3_aarch64.tar.gz	780c3855fc63b32e829748b02d76b330006c38835098bbb46760ba3d62a42137	48418711	libc++,libffi,libxml2,ncurses,zlib,zstd	Modular compiler and toolchain technologies library
+liblzma	5.8.4	aarch64	pool/liblzma_5.8.4_aarch64.tar.gz	3c34ebd1d5b0671acdcbf6943f2a73991bf000c6f7e5071632f444c10b2cccb1	243001	-	XZ-format compression library
+libnghttp2	1.70.0	aarch64	pool/libnghttp2_1.70.0_aarch64.tar.gz	91b29ccb39fe6ed4a854938424750692674de520cccd2c3751b6a99e90c9527a	126257	-	nghttp HTTP 2.0 library
+libnghttp3	1.18.0	aarch64	pool/libnghttp3_1.18.0_aarch64.tar.gz	4d05a91fe629521479e6b729af13c397b313d36e584e5d13e4e9a20981b27827	92500	-	HTTP/3 library written in C
+libngtcp2	1.25.0	aarch64	pool/libngtcp2_1.25.0_aarch64.tar.gz	77e6746e626f2e17fce6bc9552344bbd710c3887475bffead4acff34bc8a0bfc	225752	openssl	Implementation of IETF QUIC protocol
+libsqlite	3.53.4	aarch64	pool/libsqlite_3.53.4_aarch64.tar.gz	27d90630f6dba4362476d865ee4ff10f3cf5c8ab665f287dabbe00f2dacb47d0	1553456	zlib	Library implementing a self-contained and transactional SQL database engine
+libssh2	1.11.1-2	aarch64	pool/libssh2_1.11.1-2_aarch64.tar.gz	3d397e43208f06914bcd6fef5a2c2f7f80d8f696b3b12cb2b9d3245b83e23ea6	250863	openssl,zlib	Client-side library implementing the SSH2 protocol
+libxml2	2.15.4-1	aarch64	pool/libxml2_2.15.4-1_aarch64.tar.gz	0cadd0ecc649fe5964d240a8c41b9842251be2d96a68be882be939ed7cb3014c	582304	libandroid-glob,libiconv,zlib	Library for parsing XML documents
+lld	21.1.8-3	aarch64	pool/lld_21.1.8-3_aarch64.tar.gz	1430ba98613370e03438e11dfdb1e676f3e42c768f57f220c97c1c80e91fbf09	5609347	libllvm	LLVM-based linker
+llvm	21.1.8-3	aarch64	pool/llvm_21.1.8-3_aarch64.tar.gz	4aebb91a044b4e6ce00f4de678aa6d7c774bee00cb128779151d10da6d71e867	24270650	libllvm	LLVM modular compiler and toolchain executables
+ncurses	6.6.20260307+really6.5.20250830	aarch64	pool/ncurses_6.6.20260307+really6.5.20250830_aarch64.tar.gz	1e27c2dee40ae7d4f03dfd43e8a2ab3c0436595781579e7311288e4c01e4a4fc	628028	-	Library for text-based user interfaces in a terminal-independent manner
+ndk-sysroot	30	aarch64	pool/ndk-sysroot_30_aarch64.tar.gz	b0e17a891512bccc9f0ba6c6afd5cf5d1b90e9303558f59b949fc85e17f6a225	3265032	-	System header and library files from the Android NDK needed for compiling C programs
+nodejs	26.4.0-1	aarch64	pool/nodejs_26.4.0-1_aarch64.tar.gz	c78f9767b1880d78b8401624812c8b15d16791a9c32949102a9aa760e813b5d0	16294954	libc++,openssl,c-ares,libicu,libsqlite,zlib,libffi	Open Source, cross-platform JavaScript runtime environment
+openssl	1:3.6.5	aarch64	pool/openssl_1-3.6.5_aarch64.tar.gz	b338cb44c3730a8eca63d661b7fbf628b905b4c43b01657cb77691c335871dca	3185792	ca-certificates,zlib	Library implementing the SSL and TLS protocols as well as general purpose cryptography functions
+pcre2	10.49	aarch64	pool/pcre2_10.49_aarch64.tar.gz	f7229b360b9b6f02c519cd0e886b43dd71dbb85513c9661cdff28c5b1428c548	1525860	-	Perl 5 compatible regular expression library
+resolv-conf	1.3	aarch64	pool/resolv-conf_1.3_aarch64.tar.gz	7322587f7faaf172a9503ee3db2089c40684bafa9cf05b65697cd92bfc8686d7	284	-	Resolver configuration file
+rust	1.99.0	aarch64	pool/rust_1.99.0_aarch64.tar.gz	27905c53c664df99813634f5338845bc64c9142b00b9c2cd34a3695c2ab9157b	98420350	clang,libandroid-execinfo,libc++,libllvm,lld,openssl,zlib,rust-std-aarch64-linux-android	Systems programming language focused on safety, speed and concurrency
+rust-std-aarch64-linux-android	1.99.0	aarch64	pool/rust-std-aarch64-linux-android_1.99.0_aarch64.tar.gz	b69ecbf7fc3f593dd132ae27586e000d68dcf47f4536dc8b2619244454eda257	7221264	-	Component files for target aarch64-linux-android
+zlib	1.3.2	aarch64	pool/zlib_1.3.2_aarch64.tar.gz	dd9e54c7da2c6cff47cf157102c380b83727a74b85c4dce4e51431fbd4d313be	74696	-	Compression library implementing the deflate compression method found in gzip and PKZIP
+zstd	1.5.7-1	aarch64	pool/zstd_1.5.7-1_aarch64.tar.gz	1be77d2c5c6ef73291606a746fae190ed76027058f789d90ee7c426ef69d180b	472949	liblzma,zlib	Zstandard compression

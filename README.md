@@ -16,10 +16,11 @@ included in full under [`LICENSES/`](./LICENSES).
 
 ```
 .
-├── README.md          <- this file (license compliance + package table)
-├── index.tsv          <- machine-readable package index
-├── LICENSES/          <- full text of every license used by any package here
-└── pool/              <- package archives (.tar.gz, paths relative to the terminal $PREFIX)
+├── README.md              <- this file (license compliance + package table)
+├── index.tsv              <- machine-readable package index (32-bit arm + arch-independent)
+├── index-aarch64.tsv      <- machine-readable package index (64-bit aarch64 extensions)
+├── LICENSES/              <- full text of every license used by any package here
+└── pool/                  <- package archives (.tar.gz, paths relative to the terminal $PREFIX)
 ```
 
 ## `index.tsv` format
@@ -30,7 +31,7 @@ One package per line, 8 tab-separated columns:
 |---|--------|---------|
 | 1 | name | package name, as used by `pkg install <name>` |
 | 2 | version | upstream package version |
-| 3 | arch | `arm` (armeabi-v7a) or `all` (architecture-independent) |
+| 3 | arch | `arm` (armeabi-v7a), `aarch64` (arm64-v8a) or `all` (architecture-independent) |
 | 4 | filename | archive path relative to this repository root |
 | 5 | sha256 | SHA-256 checksum of the archive |
 | 6 | size | archive size in bytes |
@@ -40,7 +41,22 @@ One package per line, 8 tab-separated columns:
 The app verifies the SHA-256 checksum of every archive before extraction and resolves
 `depends` recursively before installation.
 
-## Packages (64 total, 64 archives, ~362 MB)
+## 64-bit (aarch64) support
+
+`index-aarch64.tsv` extends `index.tsv` with native **aarch64 (arm64-v8a)** builds for the
+development-toolchain tier - the packages where a 64-bit address space is a genuine
+requirement (large compilation jobs, linkers, the Go and Rust toolchains, the V8 runtime)
+- plus the native library closures those 64-bit binaries link against. `git` is included
+because `cargo` drives it for git dependencies.
+
+Packages that run identically well in 32-bit mode (interpreters and small tools such as
+python, ruby, php, lua, wget, zip, make) intentionally have **no** aarch64 duplicate, and
+architecture-independent (`all`) packages are shared through `index.tsv` instead of being
+duplicated. On a 64-bit device a resolver should prefer rows from `index-aarch64.tsv` and
+fall back to `index.tsv` for everything else; archive filenames always encode the
+architecture (`_arm`, `_aarch64`, `_all`), so both sets coexist in one `pool/` directory.
+
+## Packages (32-bit arm index: 64 packages; aarch64 index: 34 packages)
 
 | Package | Version | Description | License |
 |---|---|---|---|
@@ -165,10 +181,11 @@ Every package in `pool/` is redistributed under the terms of its own upstream li
 - Archives are repacked from Termux `.deb` packages into gzip tarballs whose paths are
   relative to the terminal `$PREFIX` (`/data/data/<app-id>/files/usr`); no package content
   is modified by the repack.
-- `rust`: upstream `share/doc`, `share/man` and the standard libraries for non-armv7
-  Android targets (`x86_64`, `aarch64`, `i686`) are removed; the `armv7-linux-androideabi`
-  target std is kept. This keeps the archive within hosting file-size limits and removes
-  content that cannot be used on armeabi-v7a devices.
+- `rust`: upstream `share/doc`, `share/man` and the standard libraries for Android targets
+  other than the repository's own are removed (the `arm` index keeps only the
+  `armv7-linux-androideabi` target std, the `aarch64` index keeps only
+  `aarch64-linux-android`). This keeps each archive within hosting file-size limits and
+  removes content that cannot be used on the respective devices.
 - `lua54`: adds convenience symlinks `bin/lua -> lua5.4` and `bin/luac -> luac5.4`
   (upstream ships only version-named binaries).
 - Versions are pinned to the Termux stable repository at build time (2026-10).
