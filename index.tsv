@@ -1,12 +1,12 @@
 biome	2.5.15	aarch64	pool/biome_2.5.15_aarch64.tar.gz	fbb38267ca477db08c6f042a061c479eab30dd57a533be5d1e825e298261b9e6	22208009	-	Format, lint, and more for JavaScript, TypeScript, and JSON
 brotli	1.2.0	arm	pool/brotli_1.2.0_arm.tar.gz	dfc44664e73c376c7fd9639dd133a9f77f16fa9fc44e018a31a67f697a7acd81	413471	-	lossless compression algorithm and format (command line utility)
 brotli	1.2.0	aarch64	pool/brotli_1.2.0_aarch64.tar.gz	8c6129d9abd2fe93dd4d7256d237b020c6b61f2f17bb984b605d9d2bf388182e	452987	-	lossless compression algorithm and format (command line utility)
-c-ares	1.34.8	arm	pool/c-ares_1.34.8_arm.tar.gz	ebbed6fb83662a752b299b3e3be13ad29fd1d2d1ae7ad0087282402b3dfe3802	206842	resolv-conf	Library for asynchronous DNS requests (including name resolves)
-c-ares	1.34.8	aarch64	pool/c-ares_1.34.8_aarch64.tar.gz	9c1384a9a9e2bc8752f3564622956adc871cca967756e5de7dcb163a9e61b31d	227552	resolv-conf	Library for asynchronous DNS requests (including name resolves)
-ca-certificates	1:2026.09.25	all	pool/ca-certificates_1-2026.09.25_all.tar.gz	24852bc2dcd1c149a3e8e5abbed430858366bc416f0fbfab914b87c3141056c6	109057	-	Common CA certificates
+c-ares	1.34.8	arm	pool/c-ares_1.34.8_arm.tar.gz	2120a7825edb9cbf809f2a9f2e4727878062b370167b36c1d433222494903fcd	207809	resolv-conf	Library for asynchronous DNS requests (including name resolves)
+c-ares	1.34.8	aarch64	pool/c-ares_1.34.8_aarch64.tar.gz	d0f5d8c2eb640d2bc64655b584adfc5e0276bab84caf368a872342865d5a26bb	228755	resolv-conf	Library for asynchronous DNS requests (including name resolves)
+ca-certificates	1:2026.09.25	all	pool/ca-certificates_1-2026.09.25_all.tar.gz	77147b669e24771935393507c68dae414e0cbd944e6d5fb3fb36c14645c2b8f0	109320	-	Common CA certificates
 capstone	5.0.9	arm	pool/capstone_5.0.9_arm.tar.gz	2f3012c01f6586d4f148963ab7297514743d05fbcb97d871cfbb478eee20b647	2214778	-	Lightweight multi-platform, multi-architecture disassembly framework
-clang	21.1.8-3	arm	pool/clang_21.1.8-3_arm.tar.gz	0f62a775e46fd0cee2198c9a8968aefc08236f0d959d1df9d75a1fce35af4e73	43948191	libcompiler-rt,lld,llvm,ndk-sysroot,libllvm	C language frontend for LLVM
-clang	21.1.8-3	aarch64	pool/clang_21.1.8-3_aarch64.tar.gz	96d03c84538900fe11cabab9275d53ff6bc93fef30e89d2878d1ef6c668679eb	49313886	libcompiler-rt,lld,llvm,ndk-sysroot,libllvm	C language frontend for LLVM
+clang	21.1.8-3	arm	pool/clang_21.1.8-3_arm.tar.gz	2d800d93ec4f2793f959edbfb53b273a0bc0c9666ade6d58ff00c20664f55796	44175307	libcompiler-rt,lld,llvm,ndk-sysroot,libllvm	C language frontend for LLVM
+clang	21.1.8-3	aarch64	pool/clang_21.1.8-3_aarch64.tar.gz	6e3271c808e0c04799638d65f18a74b5382ff4f29c991853a26cfd9c22369e2c	49538383	libcompiler-rt,lld,llvm,ndk-sysroot,libllvm	C language frontend for LLVM
 ffmpeg	8.1.3	arm	pool/ffmpeg_8.1.3_arm.tar.gz	b8f75939eb336bf93f6535b10427c403c7fee2a69849a155c1a32ac71f4f6a1a	13920270	fontconfig,freetype,fribidi,game-music-emu,glslang,harfbuzz,libaom,libandroid-glob,libandroid-shmem,libandroid-stub,libass,libbluray,libbs2b,libbz2,libdav1d,libdvdnav,libdvdread,libiconv,libjxl,liblzma,libmysofa,libmp3lame,libopencore-amr,libopenmpt,libopus,libplacebo,librav1e,libsoxr,libsrt,libssh,libtheora,libv4l,libvidstab,libvmaf,libvo-amrwbenc,libvorbis,libvpx,libwebp,libx264,libx265,libxcb,libxml2,libzimg,libzmq,littlecms,ocl-icd,openssl,rubberband,svt-av1,vulkan-icd,xvidcore,zlib	Tools and libraries to manipulate a wide range of multimedia formats and protocols
 ffmpeg	8.1.3	aarch64	pool/ffmpeg_8.1.3_aarch64.tar.gz	e6982b9f278f8d15c35499f912eae9c1d07e2a1a0643cce9396d9d32752b62cb	15474373	fontconfig,freetype,fribidi,game-music-emu,glslang,harfbuzz,libaom,libandroid-glob,libandroid-shmem,libandroid-stub,libass,libbluray,libbs2b,libbz2,libdav1d,libdvdnav,libdvdread,libiconv,libjxl,liblzma,libmysofa,libmp3lame,libopencore-amr,libopenmpt,libopus,libplacebo,librav1e,libsoxr,libsrt,libssh,libtheora,libv4l,libvidstab,libvmaf,libvo-amrwbenc,libvorbis,libvpx,libwebp,libx264,libx265,libxcb,libxml2,libzimg,libzmq,littlecms,ocl-icd,openssl,rubberband,svt-av1,vulkan-icd,xvidcore,zlib	Tools and libraries to manipulate a wide range of multimedia formats and protocols
 fftw	3.3.11	arm	pool/fftw_3.3.11_arm.tar.gz	91675f071a96d504dbd4eaf4bded6eb287f6b0bbdd5f10b73b003ff567ffd5df	1360693	-	Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions
@@ -23,16 +23,16 @@ gdbm	1.26-1	arm	pool/gdbm_1.26-1_arm.tar.gz	6629fd78d6513123f85689c0cce098c0f134
 gdbm	1.26-1	aarch64	pool/gdbm_1.26-1_aarch64.tar.gz	702becb8cc352ad907763c56b74659ec382ba38a14f21f62442757dfa32026f1	190775	readline	Library of database functions that use extensible hashing
 giflib	6.1.3	arm	pool/giflib_6.1.3_arm.tar.gz	a40965b42feb56daed3efbc3b7ed972f5a8ff2f6c535be2fa8f35ba2621583b0	49644	-	A library for reading and writing gif images
 giflib	6.1.3	aarch64	pool/giflib_6.1.3_aarch64.tar.gz	3dd76ee4c1e8c7df0cb76a6f57c36077a7809c7adddfd017704aeb185887b9f5	52030	-	A library for reading and writing gif images
-git	2.56.0	arm	pool/git_2.56.0_arm.tar.gz	2c3eb0c8fa1bcb840e69dd14392f6b747758c1fc53d788e443a0e420f8daec1d	14719978	libcurl,libexpat,libiconv,less,openssl,pcre2,zlib	Fast, scalable, distributed revision control system
-git	2.56.0	aarch64	pool/git_2.56.0_aarch64.tar.gz	23f73bfd160f115465ab89ed277e26afea23bdc7f601a6709fe4e55963a0d9f9	12833770	libcurl,libexpat,libiconv,less,openssl,pcre2,zlib	Fast, scalable, distributed revision control system
+git	2.56.0	arm	pool/git_2.56.0_arm.tar.gz	aed4b9c793eac608e6aa736eac3831d81d61da7680e45f49522307b155161b4c	14737121	libcurl,libexpat,libiconv,less,openssl,pcre2,zlib	Fast, scalable, distributed revision control system
+git	2.56.0	aarch64	pool/git_2.56.0_aarch64.tar.gz	13277d76df025f67bdf47684c8f3b1a1f5054b2fdd36504c1250d914d948852d	12858567	libcurl,libexpat,libiconv,less,openssl,pcre2,zlib	Fast, scalable, distributed revision control system
 git-lfs	3.8.0	arm	pool/git-lfs_3.8.0_arm.tar.gz	e66645dc99583f712735625eed8caaad50812b47af4dd06b6607a4bcba68b906	5521078	-	Git extension for versioning large files
 git-lfs	3.8.0	aarch64	pool/git-lfs_3.8.0_aarch64.tar.gz	108bacbb235eca86cb2f7c1c7a7a892109b79dd27ca5255631fa760a6ecc6429	5180119	-	Git extension for versioning large files
 glib	2.90.1	arm	pool/glib_2.90.1_arm.tar.gz	cee3dd6b18b1426d50c2a8647020d29cf5f98b51b3c20362012725b3034cff2a	3452607	libandroid-support,libffi,libiconv,pcre2,resolv-conf,zlib,python	Library providing core building blocks for libraries and applications written in C
 glib	2.90.1	aarch64	pool/glib_2.90.1_aarch64.tar.gz	333f8cae3f6b99c4f28bb432d4b5a74da9971c2971bb2e9a20f13048cdd872be	3763947	libandroid-support,libffi,libiconv,pcre2,resolv-conf,zlib,python	Library providing core building blocks for libraries and applications written in C
 glslang	16.6.0	arm	pool/glslang_16.6.0_arm.tar.gz	5439b89dea87b92512e84ba5d723145c752482605880ee9e3f8e6afff1953c4a	4440134	libc++	OpenGL and OpenGL ES shader front end and validator
 glslang	16.6.0	aarch64	pool/glslang_16.6.0_aarch64.tar.gz	c3d9c12bb07ad3cda925a8473daa497b3eeba05d4df1cec4c4954d9ef8adb4f2	4771103	libc++	OpenGL and OpenGL ES shader front end and validator
-golang	3:1.27.1	arm	pool/golang_3-1.27.1_arm.tar.gz	099680061b9823fb86564cc677797d9fd9e23a82582a8f513dc30c26a3bef3fc	58856865	clang	Go programming language compiler
-golang	3:1.27.1	aarch64	pool/golang_3-1.27.1_aarch64.tar.gz	f8f3d1dad7fafe73617ffaef19c33d3beb186e3dbd30fe5cb0cdcb0e71cf3481	57426198	clang	Go programming language compiler
+golang	3:1.27.1	arm	pool/golang_3-1.27.1_arm.tar.gz	c4c6ca49b0d2378af66321ad5995983114abff276cdbb8b5f69ae1f003a03d9e	59358469	clang	Go programming language compiler
+golang	3:1.27.1	aarch64	pool/golang_3-1.27.1_aarch64.tar.gz	022af8d25ad422ba488da6780138a8cc8938e925d19074c9fb19f1e10e9385c2	57813410	clang	Go programming language compiler
 harfbuzz	14.6.0	arm	pool/harfbuzz_14.6.0_arm.tar.gz	ca71af02ae01a189b61ed03a5288432d9295e5521cc6b3f66ef2e2694b8860bb	1177994	freetype,glib,libcairo,libgraphite	OpenType text shaping engine
 harfbuzz	14.6.0	aarch64	pool/harfbuzz_14.6.0_aarch64.tar.gz	5b2df63c49b9a15a3f4d8ed0cb31db0da3b51d38438f0237b42d00327108940b	1413686	freetype,glib,libcairo,libgraphite	OpenType text shaping engine
 highway	1.4.0-1	arm	pool/highway_1.4.0-1_arm.tar.gz	64c2ecac469479531af37da08f339ba10f11c062abf2cfdfcfbf4af26bf6a8e9	1366474	libc++	Performance-portable, length-agnostic SIMD with runtime dispatch
@@ -41,8 +41,8 @@ krb5	1.22.2	arm	pool/krb5_1.22.2_arm.tar.gz	34797e299d7d910187ed909977065cf6fd8d
 krb5	1.22.2	aarch64	pool/krb5_1.22.2_aarch64.tar.gz	631f99284d1dac388fc1f3710f5132036a54dc1645d4d226a0b4c8f4dbc4f67f	1332952	libandroid-support,libandroid-glob,libresolv-wrapper,readline,openssl,libdb	The Kerberos network authentication system
 ldns	1.9.2	arm	pool/ldns_1.9.2_arm.tar.gz	461951f721e57220cf1e0fa20d6239eff2159a4430140b967b47cc969a5982bc	378601	openssl,resolv-conf	Library for simplifying DNS programming and supporting recent and experimental RFCs
 ldns	1.9.2	aarch64	pool/ldns_1.9.2_aarch64.tar.gz	7b78a107eb0b582c6e8a311ec72be0702a3c7a922c6f574095e79b1bd2df3788	412879	openssl,resolv-conf	Library for simplifying DNS programming and supporting recent and experimental RFCs
-less	710	arm	pool/less_710_arm.tar.gz	1d8a1de6e1086862030a2c76d58b6d308abf4dc6e478ad135f95f699c2c0e5bd	154692	ncurses,pcre2	Terminal pager program used to view the contents of a text file one screen at a time
-less	710	aarch64	pool/less_710_aarch64.tar.gz	46ba51b35b50ff7aa7957b9e077041e6fd56cbe384a6c2345e0a1529d264f378	170766	ncurses,pcre2	Terminal pager program used to view the contents of a text file one screen at a time
+less	710	arm	pool/less_710_arm.tar.gz	b5b5b6538beec3302a0a7e512bca9d477bd2d32f411d6af2dc95709159131dc8	154913	ncurses,pcre2	Terminal pager program used to view the contents of a text file one screen at a time
+less	710	aarch64	pool/less_710_aarch64.tar.gz	9c8c539502586f1985f397f4742d842e69cfb2523fdb3c4494e42e0d2c7269a3	171225	ncurses,pcre2	Terminal pager program used to view the contents of a text file one screen at a time
 libandroid-execinfo	0.1-3	arm	pool/libandroid-execinfo_0.1-3_arm.tar.gz	edb62f569892a5eb9b8af924547c4a6db0d930cbec691b41622dc2508bf19d3f	10577	-	Shared library for the backtrace system function
 libandroid-execinfo	0.1-3	aarch64	pool/libandroid-execinfo_0.1-3_aarch64.tar.gz	887b1a65e3ddb503a18b5ea8f65beb2bf0b47aeef2c6ff0351742c58c5c1f802	18069	-	Shared library for the backtrace system function
 libandroid-glob	0.6-3	arm	pool/libandroid-glob_0.6-3_arm.tar.gz	51c3959917d4950ad53604024fc36a7ec526ae8d5c195a979e2d00b352bf4ca5	6566	-	Shared library for the glob(3) system function
@@ -71,12 +71,12 @@ libcairo	1.18.6	arm	pool/libcairo_1.18.6_arm.tar.gz	09644d233a86eca1899a39278d1b
 libcairo	1.18.6	aarch64	pool/libcairo_1.18.6_aarch64.tar.gz	1117afa76982b230a1ec42f7118cf9349c3cef87bd37020f44034a7e62ad6551	659160	fontconfig,freetype,glib,libandroid-shmem,libandroid-execinfo,liblzo,libpixman,libpng,libx11,libxcb,libxext,libxrender,zlib	Cairo 2D vector graphics library
 libcap-ng	2:0.9.6	arm	pool/libcap-ng_2-0.9.6_arm.tar.gz	1c556b3fa7381a26bde6fa2fab9a23c881b789cb92d494c8dd6e4f484f9dc8bf	60363	-	Library making programming with POSIX capabilities easier than traditional libcap
 libcap-ng	2:0.9.6	aarch64	pool/libcap-ng_2-0.9.6_aarch64.tar.gz	1125d8fc3fa1274600c954909f6c49cfbc2e50936b938551a37da62230ef3350	68176	-	Library making programming with POSIX capabilities easier than traditional libcap
-libcompiler-rt	21.1.8-3	arm	pool/libcompiler-rt_21.1.8-3_arm.tar.gz	c203fee5677844110726d57528a7abd8972d378bb3d2cf300c82b435c8f155ef	4517983	libc++	Compiler runtime libraries for clang
-libcompiler-rt	21.1.8-3	aarch64	pool/libcompiler-rt_21.1.8-3_aarch64.tar.gz	0869885c27c27d52fe5a0f5f96d2421bec567f1541ff0c20fb44ea3f0f18f0fa	7572375	libc++	Compiler runtime libraries for clang
+libcompiler-rt	21.1.8-3	arm	pool/libcompiler-rt_21.1.8-3_arm.tar.gz	01661ec464357ed2077e7a18f59014ee764adb306f1e9df702d64c986d71db52	4558732	libc++	Compiler runtime libraries for clang
+libcompiler-rt	21.1.8-3	aarch64	pool/libcompiler-rt_21.1.8-3_aarch64.tar.gz	a7364d7f438beda557f6b902aefec4c4bee714111ac2a24ba92cbf73a4078397	7687421	libc++	Compiler runtime libraries for clang
 libcrypt	0.2-6	arm	pool/libcrypt_0.2-6_arm.tar.gz	fe859e8c1cb71e8ce309f4f39a946edcab81528ed3964dbf3d6f31c764af4f7a	8755	openssl	A crypt(3) implementation
 libcrypt	0.2-6	aarch64	pool/libcrypt_0.2-6_aarch64.tar.gz	0e0221eb5c95a6883ee7354d331ba1931fdaae2f75ced39b4506cf231ba82376	9982	openssl	A crypt(3) implementation
 libcurl	8.22.0	arm	pool/libcurl_8.22.0_arm.tar.gz	4f6b047c80da0e274c9160cdab5d9214d633dc2b1effce8fcc6ae6f023a2820b	1110299	libnghttp2,libnghttp3,libngtcp2,libssh2,openssl,zlib	Easy-to-use client-side URL transfer library
-libcurl	8.22.0	aarch64	pool/libcurl_8.22.0_aarch64.tar.gz	197835d38082610ce001930ba0c249171b20d70daae6b66d3310f009f38d575f	1156227	libnghttp2,libnghttp3,libngtcp2,libssh2,openssl,zlib	Easy-to-use client-side URL transfer library
+libcurl	8.22.0	aarch64	pool/libcurl_8.22.0_aarch64.tar.gz	5fcec235cca0c945ed1eb139dcb83a0b392e2d7cffbfe7234782f4a05cd9f82e	1160478	libnghttp2,libnghttp3,libngtcp2,libssh2,openssl,zlib	Easy-to-use client-side URL transfer library
 libdav1d	1.5.4	arm	pool/libdav1d_1.5.4_arm.tar.gz	13efd9eee485d2222c0b77ce3b3ac02dc8be79665457ec51c8d2372770cdd4ad	317207	-	AV1 cross-platform decoder focused on speed and correctness
 libdav1d	1.5.4	aarch64	pool/libdav1d_1.5.4_aarch64.tar.gz	9a762d6d7b2ae7b808528dcf37f591d0efc3ace362e8766be5bf6311b65183e9	366142	-	AV1 cross-platform decoder focused on speed and correctness
 libdb	18.1.40-6	arm	pool/libdb_18.1.40-6_arm.tar.gz	0fb50a6672a2fb18c1a5ce456386c4beada1431513fdb5efe242cf3a066367f8	854467	libc++	The Berkeley DB embedded database system (library)
@@ -90,9 +90,9 @@ libdvdread	7.1.1	aarch64	pool/libdvdread_7.1.1_aarch64.tar.gz	4088a50cee2eaa5b03
 libedit	20260512-3.1-0	arm	pool/libedit_20260512-3.1-0_arm.tar.gz	1cf27e3fa2e00d96e98a5ac70036a48dfcd94fe303933a9ca6973125688f8456	80498	ncurses	Library providing line editing, history, and tokenization functions
 libedit	20260512-3.1-0	aarch64	pool/libedit_20260512-3.1-0_aarch64.tar.gz	62f78da9de62f678498434d1f5fecff0b8e794e992f6b312a9ccd3e0a77e4d1a	99861	ncurses	Library providing line editing, history, and tokenization functions
 libexpat	2.9.0	arm	pool/libexpat_2.9.0_arm.tar.gz	d23e450345d31c47d1d0ddd1259614b7d903c60f822c73eda23a017a94bd3f78	112442	-	XML parsing C library
-libexpat	2.9.0	aarch64	pool/libexpat_2.9.0_aarch64.tar.gz	b77f4137fecc58340ac1f41c295a8951d816e6423003fd7f1144bb26fb5bdaed	124455	-	XML parsing C library
+libexpat	2.9.0	aarch64	pool/libexpat_2.9.0_aarch64.tar.gz	74ed485b5ecaa3722009981c14646b9f34e734bea9995f8ee2a8662c56b557b8	125071	-	XML parsing C library
 libffi	3.8.0	arm	pool/libffi_3.8.0_arm.tar.gz	e5584a87923f8692b9400f7721cf77e4a2f2dda77642daa23051d7608194f44f	38971	-	Library providing a portable, high level programming interface to various calling conventions
-libffi	3.8.0	aarch64	pool/libffi_3.8.0_aarch64.tar.gz	30d5ba159ed043453619370db19b64dacd07b8133f844419056e897cc531f186	44776	-	Library providing a portable, high level programming interface to various calling conventions
+libffi	3.8.0	aarch64	pool/libffi_3.8.0_aarch64.tar.gz	5e9e76b623ea0ab69936b6338ed0847f4f39e3243cf421a594f111e5b761c7b3	45046	-	Library providing a portable, high level programming interface to various calling conventions
 libflac	1.5.0-1	arm	pool/libflac_1.5.0-1_arm.tar.gz	667c424668f08431cbde656b59fb9a621605deccf762802f1f5b1b45d883a5ae	235423	libc++,libogg	FLAC (Free Lossless Audio Codec) library
 libflac	1.5.0-1	aarch64	pool/libflac_1.5.0-1_aarch64.tar.gz	4b44629a1eb16534a21d4d3a9cc218ef0195750458e1fadcec95d1f3b768ee64	271379	libc++,libogg	FLAC (Free Lossless Audio Codec) library
 libgcrypt	1.12.4	arm	pool/libgcrypt_1.12.4_arm.tar.gz	bb36a5d298699d922d73f45e741c43f8492b1e37f3c212037b842874ef38b3be	583402	libgpg-error	General purpose cryptographic library based on the code from GnuPG
@@ -103,16 +103,16 @@ libgraphite	1.3.15	aarch64	pool/libgraphite_1.3.15_aarch64.tar.gz	9f531abaf9cc0d
 libiconv	1.19	arm	pool/libiconv_1.19_arm.tar.gz	a51634639a433312031754ce0a0ed311cd21548921c4af9ea3dcddf5a5f63c4b	749972	-	An implementation of iconv()
 libiconv	1.19	aarch64	pool/libiconv_1.19_aarch64.tar.gz	146723bbb55863a0e8d28bfb9f8816c3e292b768ec7f044eef4452065b9c4107	763395	-	An implementation of iconv()
 libicu	78.3	arm	pool/libicu_78.3_arm.tar.gz	4d45e69e714643bdaa844433fa3340243e892d290b23ff39cbd5cf1ad14bf120	15522832	libc++	International Components for Unicode library
-libicu	78.3	aarch64	pool/libicu_78.3_aarch64.tar.gz	9f8664380263d9c005cb938f90bb517fb74b3d809079b5ddd47ce08a83f659bb	15967713	libc++	International Components for Unicode library
-libidn2	2.3.8-1	arm	pool/libidn2_2.3.8-1_arm.tar.gz	23e38e61aa933ed9723c9f24dd9617efc283c1e2124182c4dc7c79b5ab494722	144978	libandroid-support,libiconv,libunistring	Free software implementation of IDNA2008, Punycode and TR46
+libicu	78.3	aarch64	pool/libicu_78.3_aarch64.tar.gz	12160a00497654a00ab2c5e25a65f5102b8847607cecaf59eb45cd751facf821	16036263	libc++	International Components for Unicode library
+libidn2	2.3.8-1	arm	pool/libidn2_2.3.8-1_arm.tar.gz	6fa6d2dbaa308f4030dafe9a4d02a8bce18cfed854e43d3225c0b2ae9423dd7c	145338	libandroid-support,libiconv,libunistring	Free software implementation of IDNA2008, Punycode and TR46
 libjpeg-turbo	3.2.0	arm	pool/libjpeg-turbo_3.2.0_arm.tar.gz	ff738805477997a1e8c9a277b10576248306b9d8f728767f8211fda6196720c2	691165	-	Library for reading and writing JPEG image files
 libjpeg-turbo	3.2.0	aarch64	pool/libjpeg-turbo_3.2.0_aarch64.tar.gz	1aa4514e9ff47ee243c584a5c105f439ec03a0a6d9724e9c974d3db5921f53af	799758	-	Library for reading and writing JPEG image files
 libjxl	0.12.0-1	arm	pool/libjxl_0.12.0-1_arm.tar.gz	14524cef6d43098fb94d05a5a304f17924b9ea184e86a25ec32147f71d1b6a79	1269990	brotli,giflib,glib,highway,libc++,libffi,libiconv,libjpeg-turbo,libpng,zlib	JPEG XL image format reference implementation
 libjxl	0.12.0-1	aarch64	pool/libjxl_0.12.0-1_aarch64.tar.gz	7d105bc6e074663420018a1a661146bfbd749869671adbcc98435676791eeffa	1753406	brotli,giflib,glib,highway,libc++,libffi,libiconv,libjpeg-turbo,libpng,zlib	JPEG XL image format reference implementation
-libllvm	21.1.8-3	arm	pool/libllvm_21.1.8-3_arm.tar.gz	8b8c11e402390d71d4493b79caa2227fde7d8e7097f46f4161bd670edd623ff6	45810496	libc++,libffi,libxml2,ncurses,zlib,zstd	Modular compiler and toolchain technologies library
-libllvm	21.1.8-3	aarch64	pool/libllvm_21.1.8-3_aarch64.tar.gz	780c3855fc63b32e829748b02d76b330006c38835098bbb46760ba3d62a42137	48418711	libc++,libffi,libxml2,ncurses,zlib,zstd	Modular compiler and toolchain technologies library
+libllvm	21.1.8-3	arm	pool/libllvm_21.1.8-3_arm.tar.gz	162ef74b8f7dee92411d38d9bb221bcc78b0df2eb7bc65b0ee53c283e7a6cba9	45979245	libc++,libffi,libxml2,ncurses,zlib,zstd	Modular compiler and toolchain technologies library
+libllvm	21.1.8-3	aarch64	pool/libllvm_21.1.8-3_aarch64.tar.gz	2755c2a9ca4a78e8351f6b7218d40df27f0a330dca41deea108ba38f94eca666	48627197	libc++,libffi,libxml2,ncurses,zlib,zstd	Modular compiler and toolchain technologies library
 liblzma	5.8.4	arm	pool/liblzma_5.8.4_arm.tar.gz	89f18174262b0bac361ff5e7aeeac81ab191eb7b8d7f4371ceacbe198ad4b2ac	232104	-	XZ-format compression library
-liblzma	5.8.4	aarch64	pool/liblzma_5.8.4_aarch64.tar.gz	3c34ebd1d5b0671acdcbf6943f2a73991bf000c6f7e5071632f444c10b2cccb1	243001	-	XZ-format compression library
+liblzma	5.8.4	aarch64	pool/liblzma_5.8.4_aarch64.tar.gz	6d28b663e401c599217251792a02b74592d24820e56d37878d926314ac493aed	244087	-	XZ-format compression library
 liblzo	2.10-5	arm	pool/liblzo_2.10-5_arm.tar.gz	c7cd7a5d6b2c5acbc920603b10b8c09a70f7fc614a2652eb11c59e13b319fa6a	83007	-	Portable lossless data compression library
 liblzo	2.10-5	aarch64	pool/liblzo_2.10-5_aarch64.tar.gz	b4d2a572e174c7e63f4516a456d8ddf1395daa112b4fa2e41e8fee645eaa10c4	86978	-	Portable lossless data compression library
 libmp3lame	4.0-1	arm	pool/libmp3lame_4.0-1_arm.tar.gz	0db16db3714e8fa2afe359fc89ed55d467b09e27f83dcfaa5e1a4fb03f82162c	105586	libiconv,libmpg123	High quality MPEG Audio Layer III (MP3) encoder
@@ -122,11 +122,11 @@ libmpg123	1.33.7	aarch64	pool/libmpg123_1.33.7_aarch64.tar.gz	6d1453efd24bedfcd1
 libmysofa	1.3.5	arm	pool/libmysofa_1.3.5_arm.tar.gz	fc2506b92b331ef0f70a6d4bf24c1866f948175a3256b8a0529e9149b1c6b2c0	1156005	zlib	Reader for AES SOFA files to get better HRTFs
 libmysofa	1.3.5	aarch64	pool/libmysofa_1.3.5_aarch64.tar.gz	43392477a9eea9d39e009717dd3a3f85f2a4ab75a7d87b8c74220668e1f85c33	1167020	zlib	Reader for AES SOFA files to get better HRTFs
 libnghttp2	1.70.0	arm	pool/libnghttp2_1.70.0_arm.tar.gz	4189a1fd4a69c162496c8f16673d29e2d5ad158db0da6edd3130955bdafe0a55	114502	-	nghttp HTTP 2.0 library
-libnghttp2	1.70.0	aarch64	pool/libnghttp2_1.70.0_aarch64.tar.gz	91b29ccb39fe6ed4a854938424750692674de520cccd2c3751b6a99e90c9527a	126257	-	nghttp HTTP 2.0 library
+libnghttp2	1.70.0	aarch64	pool/libnghttp2_1.70.0_aarch64.tar.gz	880d69884b33b057f65b4dc97b98bdd62b3545464fadf745b442aa094c5bd28b	126954	-	nghttp HTTP 2.0 library
 libnghttp3	1.18.0	arm	pool/libnghttp3_1.18.0_arm.tar.gz	a39aa8bc9378885554304571b047d4a7ecf401cfb8ecf2efe7ddf08087c32412	84792	-	HTTP/3 library written in C
-libnghttp3	1.18.0	aarch64	pool/libnghttp3_1.18.0_aarch64.tar.gz	4d05a91fe629521479e6b729af13c397b313d36e584e5d13e4e9a20981b27827	92500	-	HTTP/3 library written in C
+libnghttp3	1.18.0	aarch64	pool/libnghttp3_1.18.0_aarch64.tar.gz	d12797d3e132a72eb2d4a3cec5f4689c37674f436e232e52d3271dac4d0b98da	93162	-	HTTP/3 library written in C
 libngtcp2	1.25.0	arm	pool/libngtcp2_1.25.0_arm.tar.gz	de4f5d47e0d69c61d055edea151655af9ef2ac5a35f7e59918c665f22d9a0069	230309	openssl	Implementation of IETF QUIC protocol
-libngtcp2	1.25.0	aarch64	pool/libngtcp2_1.25.0_aarch64.tar.gz	77e6746e626f2e17fce6bc9552344bbd710c3887475bffead4acff34bc8a0bfc	225752	openssl	Implementation of IETF QUIC protocol
+libngtcp2	1.25.0	aarch64	pool/libngtcp2_1.25.0_aarch64.tar.gz	4673924c8f81eecfbca75044cd090c16ce688ad698922e62040f77e2cf4146e2	226760	openssl	Implementation of IETF QUIC protocol
 libogg	1.3.6-1	arm	pool/libogg_1.3.6-1_arm.tar.gz	0eb6361574462f13db423b0056d1912625130e3d9ad5a0248162f79be73910fd	204291	-	Library for working with the Ogg multimedia container format
 libogg	1.3.6-1	aarch64	pool/libogg_1.3.6-1_aarch64.tar.gz	ad4a1cb3d19e8da21b3cbf0f1c353e292267188bd8f369e1ecfa78fab721de49	206266	-	Library for working with the Ogg multimedia container format
 libopencore-amr	0.1.6-1	arm	pool/libopencore-amr_0.1.6-1_arm.tar.gz	d58946a9ae441f8329e9ea2c02b4b36997f473c067d66157e0d652d484193f80	117214	-	Open source implementation of the Adaptive Multi Rate (AMR) speech codec
@@ -158,13 +158,13 @@ libsodium	1.0.22-1	aarch64	pool/libsodium_1.0.22-1_aarch64.tar.gz	c4c382c2111051
 libsoxr	0.1.3-8	arm	pool/libsoxr_0.1.3-8_arm.tar.gz	f5e6b8fd9df803c9daad00d880420db93d24813059440b5c7a7d10768e517f2d	349937	-	High quality, one-dimensional sample-rate conversion library
 libsoxr	0.1.3-8	aarch64	pool/libsoxr_0.1.3-8_aarch64.tar.gz	87ecefa8f53eae97441bad08e312ff2b48ecd61a12edb094956e19dd0b74c9cb	380878	-	High quality, one-dimensional sample-rate conversion library
 libsqlite	3.54.0	arm	pool/libsqlite_3.54.0_arm.tar.gz	399329cd5f34f51569709b6ca565442ddc1bd4da98f16c387b39a3f93d72759d	1340776	zlib	Library implementing a self-contained and transactional SQL database engine
-libsqlite	3.53.4	aarch64	pool/libsqlite_3.53.4_aarch64.tar.gz	27d90630f6dba4362476d865ee4ff10f3cf5c8ab665f287dabbe00f2dacb47d0	1553456	zlib	Library implementing a self-contained and transactional SQL database engine
+libsqlite	3.53.4	aarch64	pool/libsqlite_3.53.4_aarch64.tar.gz	f387678aa8d49b041b76f7723485ae2adf44cee19f5a03885336ba22cbc13bdf	1556715	zlib	Library implementing a self-contained and transactional SQL database engine
 libsrt	1.5.7	arm	pool/libsrt_1.5.7_arm.tar.gz	e0bfadb317a51039e7572ecc6a941ba0a84aa2b8e28df3d0ad87c3a56ccc073d	339053	libc++,openssl	Secure Reliable Transport (SRT) Protocol
 libsrt	1.5.7	aarch64	pool/libsrt_1.5.7_aarch64.tar.gz	5f55c683bb4132ca514cd39e8406174e89c64beef3ff93ccba14d6dbd6cb3c60	377475	libc++,openssl	Secure Reliable Transport (SRT) Protocol
 libssh	0.12.2	arm	pool/libssh_0.12.2_arm.tar.gz	ce40931d1f8c93e524004f966079d5a627c22964f083ba2d9687fbebc30fc082	269804	openssl,zlib	Tiny C SSH library
 libssh	0.12.2	aarch64	pool/libssh_0.12.2_aarch64.tar.gz	1aab8475cafe17991677ba769e48a74e7daceb5bea0e6bf9a3ebe5cce7c6f0e1	303225	openssl,zlib	Tiny C SSH library
 libssh2	1.11.1-2	arm	pool/libssh2_1.11.1-2_arm.tar.gz	8c464f1814b1d153ba0337480c4d5fe2aac6a94e883c14973fc90b886d5f8d6d	229599	openssl,zlib	Client-side library implementing the SSH2 protocol
-libssh2	1.11.1-2	aarch64	pool/libssh2_1.11.1-2_aarch64.tar.gz	3d397e43208f06914bcd6fef5a2c2f7f80d8f696b3b12cb2b9d3245b83e23ea6	250863	openssl,zlib	Client-side library implementing the SSH2 protocol
+libssh2	1.11.1-2	aarch64	pool/libssh2_1.11.1-2_aarch64.tar.gz	da1ade2f8213ea64b247241d227dcc29582848e9c03ff7920be37517ef5be177	252325	openssl,zlib	Client-side library implementing the SSH2 protocol
 libtheora	1.2.0-1	arm	pool/libtheora_1.2.0-1_arm.tar.gz	0fcabe09614ad41611daee77529ba0e76cc37250418c252d7ce7524fa0fe8f02	227159	libogg,libvorbis	An open video codec developed by the Xiph.org
 libtheora	1.2.0-1	aarch64	pool/libtheora_1.2.0-1_aarch64.tar.gz	8ea71b37b5a741c972abe43d4fda001377c4f217aad86ccae6b882eefe5a3a3d	252680	libogg,libvorbis	An open video codec developed by the Xiph.org
 libtiff	4.7.2	arm	pool/libtiff_4.7.2_arm.tar.gz	11b79948d8402b492ca01f4ffccdb6804962fbc0c7b3787179257fd6bccb36de	1229619	libc++,libjpeg-turbo,liblzma,zlib,zstd	Support for the Tag Image File Format (TIFF) for storing image data
@@ -172,7 +172,7 @@ libtiff	4.7.2	aarch64	pool/libtiff_4.7.2_aarch64.tar.gz	0ebff75c28956dc5a0e91f7d
 libudfread	1.2.0	arm	pool/libudfread_1.2.0_arm.tar.gz	f651844d7b2b90ed0cf0e4c49dff89f39925deee6ac38e388fef4abf73c94e3c	13989	-	A library for reading UDF
 libudfread	1.2.0	aarch64	pool/libudfread_1.2.0_aarch64.tar.gz	2ed8ff87d825b92ee4c14a52185af13b4e053ff0cb501d0d200631578740063f	17107	-	A library for reading UDF
 libunistring	1.4.2	arm	pool/libunistring_1.4.2_arm.tar.gz	5fd6e24386a064d060c8741c32bae1c1fd4f102fe087279d1c2dde2d9f1eb18d	949346	libandroid-support,libiconv	Library providing functions for manipulating Unicode strings
-libuuid	2.42.4	arm	pool/libuuid_2.42.4_arm.tar.gz	0339596bbc5abc1c1d3b42225821496cac3664083688173380583c09f7759c20	15635	libandroid-posix-semaphore	Library for handling universally unique identifiers
+libuuid	2.42.4	arm	pool/libuuid_2.42.4_arm.tar.gz	78a53731c0c3746de6775a9ce2bd1e6a7da8a7ebc1da92932cc28abe86515506	15711	libandroid-posix-semaphore	Library for handling universally unique identifiers
 libv4l	1.32.0-1	arm	pool/libv4l_1.32.0-1_arm.tar.gz	ed05314c93120ca8a2a34765c9cfcedc6441318dd1cfcf9a532ad2053cd1b50b	103062	libandroid-execinfo,libandroid-glob,libjpeg-turbo	Linux libraries to handle media devices
 libv4l	1.32.0-1	aarch64	pool/libv4l_1.32.0-1_aarch64.tar.gz	75b7b5177ac445369043b266286299e3df6587404197c72125c5bfe0641af2a3	119022	libandroid-execinfo,libandroid-glob,libjpeg-turbo	Linux libraries to handle media devices
 libvidstab	1.1.2	arm	pool/libvidstab_1.1.2_arm.tar.gz	7ff7b218012f61e3ded2c8d7196bbda50d635fc2f02972d0c9a98896b3d979e6	367225	-	video stabilization library
@@ -204,7 +204,7 @@ libxdmcp	1.1.5-2	aarch64	pool/libxdmcp_1.1.5-2_aarch64.tar.gz	16984bd85865920eb1
 libxext	1.3.7	arm	pool/libxext_1.3.7_arm.tar.gz	e6f82cab10b1c6d330f7a41bfb1b2bfe27f20403f9944e09e9e1ad5bc08eb8bd	105270	libx11	X11 miscellaneous extensions library
 libxext	1.3.7	aarch64	pool/libxext_1.3.7_aarch64.tar.gz	95825864a5908c304a52e62837402e7413f8b9d8de0608080b40b2ce9d5ae380	113281	libx11	X11 miscellaneous extensions library
 libxml2	2.15.4-1	arm	pool/libxml2_2.15.4-1_arm.tar.gz	64c54c0700d839ab50e18ec71a48ac7fb40a9675345f6070411bbd90883e4032	489577	libandroid-glob,libiconv,zlib	Library for parsing XML documents
-libxml2	2.15.4-1	aarch64	pool/libxml2_2.15.4-1_aarch64.tar.gz	0cadd0ecc649fe5964d240a8c41b9842251be2d96a68be882be939ed7cb3014c	582304	libandroid-glob,libiconv,zlib	Library for parsing XML documents
+libxml2	2.15.4-1	aarch64	pool/libxml2_2.15.4-1_aarch64.tar.gz	05ba4817b066f8ec26ed6de737cbd1a0c6b8debbf8c1cccd408e1b5eb775de90	583891	libandroid-glob,libiconv,zlib	Library for parsing XML documents
 libxrender	0.9.12-1	arm	pool/libxrender_0.9.12-1_arm.tar.gz	175284012b689397e0f2ab1ac9890dc3a7935efe15d89f4c0ea97384b30d3be8	26002	libx11	X Rendering Extension client library
 libxrender	0.9.12-1	aarch64	pool/libxrender_0.9.12-1_aarch64.tar.gz	534a7c4f3df9c21f3a06147cb6bf3e55071c0b48df926455c666c9a6ea72e41f	29590	libx11	X Rendering Extension client library
 libxshmfence	1.3.3-1	arm	pool/libxshmfence_1.3.3-1_arm.tar.gz	20ec6abd585725aa73ff511749c0016994d1e200b4da0072ba04e5992dc85848	4137	-	A library that exposes a event API on top of Linux futexes
@@ -218,26 +218,26 @@ libzmq	4.3.5-2	arm	pool/libzmq_4.3.5-2_arm.tar.gz	824fea7569b402438f0added6a0b58
 libzmq	4.3.5-2	aarch64	pool/libzmq_4.3.5-2_aarch64.tar.gz	21b0e994176ffabcf575fc879adbe6b1815aa70cda218010c31922b198777158	387018	libc++,libsodium	Fast messaging system built on sockets. C and C++ bindings. aka 0MQ, ZMQ.
 littlecms	2.19.1	arm	pool/littlecms_2.19.1_arm.tar.gz	3cc17432522dfde8d467dde3aee5cf37a05ccdca3ed327fb3ad9c508e457b10e	158027	-	Color management library
 littlecms	2.19.1	aarch64	pool/littlecms_2.19.1_aarch64.tar.gz	8c353c1829c094f9fdab70789043ca127d1eb5086cca86c571f9be0b793978b9	187522	-	Color management library
-lld	21.1.8-3	arm	pool/lld_21.1.8-3_arm.tar.gz	2afa727834e88d5844ca0b6166e6e3a4a0c155cb38f0c6285b3182a417d82032	5559199	libllvm	LLVM-based linker
-lld	21.1.8-3	aarch64	pool/lld_21.1.8-3_aarch64.tar.gz	1430ba98613370e03438e11dfdb1e676f3e42c768f57f220c97c1c80e91fbf09	5609347	libllvm	LLVM-based linker
-llvm	21.1.8-3	arm	pool/llvm_21.1.8-3_arm.tar.gz	9693327c24698b36f48123ad1d22429c9886724e46aab62484b4e52fa17e5744	22618237	libllvm	LLVM modular compiler and toolchain executables
-llvm	21.1.8-3	aarch64	pool/llvm_21.1.8-3_aarch64.tar.gz	4aebb91a044b4e6ce00f4de678aa6d7c774bee00cb128779151d10da6d71e867	24270650	libllvm	LLVM modular compiler and toolchain executables
-lua54	5.4.9	arm	pool/lua54_5.4.9_arm.tar.gz	e3eb431eb1f5c8ad0b8887800c7b912f75b59b7943bf291e72a0af77acbba9b1	346456	-	Lua scripting language 5.4.x
+lld	21.1.8-3	arm	pool/lld_21.1.8-3_arm.tar.gz	da15893c28628345693fd56239b21d39b2e005bd3226140c37b50ae0495532ba	5585036	libllvm	LLVM-based linker
+lld	21.1.8-3	aarch64	pool/lld_21.1.8-3_aarch64.tar.gz	4cb3ca1287e2337608696c54852e8af63e07c4116a0f89d140975de2bbb018d6	5682206	libllvm	LLVM-based linker
+llvm	21.1.8-3	arm	pool/llvm_21.1.8-3_arm.tar.gz	0d7c14eac06e34a9a05d74895714975f57f1b09987455ebf187d2a3b4db1c18f	22658212	libllvm	LLVM modular compiler and toolchain executables
+llvm	21.1.8-3	aarch64	pool/llvm_21.1.8-3_aarch64.tar.gz	2eac13e161a185cc214ccbc4ddb61118f29c0ae9fe24958b7b46d7683e1f66ad	24336463	libllvm	LLVM modular compiler and toolchain executables
+lua54	5.4.9	arm	pool/lua54_5.4.9_arm.tar.gz	340cbc3ff638fdd1e81304c9fbb024eecc81a27600b69694c3374424fd6e598c	346800	-	Lua scripting language 5.4.x
 lua54	5.4.9	aarch64	pool/lua54_5.4.9_aarch64.tar.gz	ca10d8a063c96abaa5966bfd8aabea682ab62d7134e06f668073f931056ef2b6	429774	-	Lua scripting language 5.4.x
 make	4.4.1-1	arm	pool/make_4.4.1-1_arm.tar.gz	e54257bb050e889f8ed476e34217323e4efafdb8c3dbc8c288cd907efccd2692	285065	-	Tool to control the generation of non-source files from source files
 mesa-vulkan-icd-swrast	26.2.4	arm	pool/mesa-vulkan-icd-swrast_26.2.4_arm.tar.gz	1b880c4004225ed1c93de3588714e6e8187fc2f5d5c6b63bed1ee835353cf01b	2088920	libandroid-shmem,libc++,libdrm,libllvm,libx11,libxcb,libxshmfence,libwayland,ncurses,vulkan-loader-generic,zlib,zstd	Mesa's Swrast Vulkan ICD
 mesa-vulkan-icd-swrast	26.2.4	aarch64	pool/mesa-vulkan-icd-swrast_26.2.4_aarch64.tar.gz	9709c0fde3e18240303f5f5ed99b84c13ca116bcb8ddbf05b4f6838184ebbe11	2437683	libandroid-shmem,libc++,libdrm,libllvm,libx11,libxcb,libxshmfence,libwayland,ncurses,vulkan-loader-generic,zlib,zstd	Mesa's Swrast Vulkan ICD
 ncurses	6.6.20260307+really6.5.20250830	arm	pool/ncurses_6.6.20260307+really6.5.20250830_arm.tar.gz	14d114e447cdafddced0d599f7042d16ba0cf89adeede9bd1bd15d3fa05dd003	596604	-	Library for text-based user interfaces in a terminal-independent manner
-ncurses	6.6.20260307+really6.5.20250830	aarch64	pool/ncurses_6.6.20260307+really6.5.20250830_aarch64.tar.gz	1e27c2dee40ae7d4f03dfd43e8a2ab3c0436595781579e7311288e4c01e4a4fc	628028	-	Library for text-based user interfaces in a terminal-independent manner
+ncurses	6.6.20260307+really6.5.20250830	aarch64	pool/ncurses_6.6.20260307+really6.5.20250830_aarch64.tar.gz	b1f6b4f0a266199f0fd4bdc87f8562d31a1f3ec17d5de7fba4bcab5fd15cedd8	632206	-	Library for text-based user interfaces in a terminal-independent manner
 ncurses-ui-libs	6.6.20260307+really6.5.20250830	arm	pool/ncurses-ui-libs_6.6.20260307+really6.5.20250830_arm.tar.gz	12c40b10b2b8d346953e6677d103c1353fd43cb33b0d73ac7eb5079bb8cdea8c	33025	ncurses	Libraries for terminal user interfaces based on ncurses
 ncurses-ui-libs	6.6.20260307+really6.5.20250830	aarch64	pool/ncurses-ui-libs_6.6.20260307+really6.5.20250830_aarch64.tar.gz	f4c28ed585c9b4f3f852c28c56e9ed00a83e22174d21df0bab4eda2c1a60154c	43088	ncurses	Libraries for terminal user interfaces based on ncurses
-ndk-sysroot	30	arm	pool/ndk-sysroot_30_arm.tar.gz	f3532824542b1407dad7222ed7a1c853ed4d151bedff87f2e838c6a2fa24b421	3254175	-	System header and library files from the Android NDK needed for compiling C programs
-ndk-sysroot	30	aarch64	pool/ndk-sysroot_30_aarch64.tar.gz	b0e17a891512bccc9f0ba6c6afd5cf5d1b90e9303558f59b949fc85e17f6a225	3265032	-	System header and library files from the Android NDK needed for compiling C programs
+ndk-sysroot	30	arm	pool/ndk-sysroot_30_arm.tar.gz	c3f45b2c03be3d6632cbc253d240c386997c2129778a0e5137d2fe1372a2d287	3299035	-	System header and library files from the Android NDK needed for compiling C programs
+ndk-sysroot	30	aarch64	pool/ndk-sysroot_30_aarch64.tar.gz	cc33af0ef3116555f38ae64c55b54bd7f4f71a359fc2861a52cf1e9a4570e302	3310749	-	System header and library files from the Android NDK needed for compiling C programs
 nmap	7.991	arm	pool/nmap_7.991_arm.tar.gz	a7db84f856042f8cff083893a8a497f2830de3a6a44b55063e732bcf8fdd885d	6631353	libc++,lua54,libpcap,libssh2,openssl,pcre2,resolv-conf,zlib	Utility for network discovery and security auditing
 nmap	7.991	aarch64	pool/nmap_7.991_aarch64.tar.gz	d6bfd30af874dbe370ddb63ac943fe401a7b007b8a0edeaf2a4c20bea9d4c74d	6795373	libc++,lua54,libpcap,libssh2,openssl,pcre2,resolv-conf,zlib	Utility for network discovery and security auditing
-nodejs	26.4.0-1	arm	pool/nodejs_26.4.0-1_arm.tar.gz	434f76c184b61d4033cd72c2fa914990d8b7732be7ea15d0b93cad7f9b5446b7	13381707	libc++,openssl,c-ares,libicu,libsqlite,zlib,libffi	Open Source, cross-platform JavaScript runtime environment
-nodejs	26.4.0-1	aarch64	pool/nodejs_26.4.0-1_aarch64.tar.gz	c78f9767b1880d78b8401624812c8b15d16791a9c32949102a9aa760e813b5d0	16294954	libc++,openssl,c-ares,libicu,libsqlite,zlib,libffi	Open Source, cross-platform JavaScript runtime environment
-npm	11.20.0	all	pool/npm_11.20.0_all.tar.gz	2bcfb8470724a1b47248a9f830c7e00a3ec10ea84cf9db4ab2faa4d960f8f45e	3128001	nodejs	The package manager for JavaScript
+nodejs	26.4.0-1	arm	pool/nodejs_26.4.0-1_arm.tar.gz	af44df36af7347481d4fc77a80a3b051744e0aa893a25ef8d8c1a9d108aa1b58	13429693	libc++,openssl,c-ares,libicu,libsqlite,zlib,libffi	Open Source, cross-platform JavaScript runtime environment
+nodejs	26.4.0-1	aarch64	pool/nodejs_26.4.0-1_aarch64.tar.gz	aaab336d633b4a752d050129ff73f8d7ef555b7e44306637b9b72e60ec185fc5	16354604	libc++,openssl,c-ares,libicu,libsqlite,zlib,libffi	Open Source, cross-platform JavaScript runtime environment
+npm	11.20.0	all	pool/npm_11.20.0_all.tar.gz	03cb5f61a9333eb694c3270ea40a8c3c15b270b9ac2b780ebd068c4807300746	3151265	nodejs	The package manager for JavaScript
 ocl-icd	2.3.5	arm	pool/ocl-icd_2.3.5_arm.tar.gz	0672c967c9a0b192225b5596ad7b73a5e9b17f525742bdbf57b1d3d855001b29	186676	-	OpenCL ICD Loader
 ocl-icd	2.3.5	aarch64	pool/ocl-icd_2.3.5_aarch64.tar.gz	96f3371e11ba7da7c93f191509f47a35c51abc64e9e655bd27deab3ff1d7d398	215537	-	OpenCL ICD Loader
 oniguruma	6.9.10-1	arm	pool/oniguruma_6.9.10-1_arm.tar.gz	97b77598f947b0851dbb621b3f44445a412bb04afe363ee1da3075d04b1d0214	181198	-	Regular expressions library
@@ -246,9 +246,9 @@ openssh	10.6p1-1	aarch64	pool/openssh_10.6p1-1_aarch64.tar.gz	b95c334a5c43144579
 openssh-sftp-server	10.6p1-1	arm	pool/openssh-sftp-server_10.6p1-1_arm.tar.gz	1b5b3e9647707e4b9c525537a734473e483fb7b39da6f9b8ed46e64379477ed6	58397	libandroid-support	OpenSSH SFTP server subsystem
 openssh-sftp-server	10.6p1-1	aarch64	pool/openssh-sftp-server_10.6p1-1_aarch64.tar.gz	2e0c96f8f8f6f2196fb388c0ec1c55ecfdacbe84e04212249e2d74a397574364	69938	libandroid-support	OpenSSH SFTP server subsystem
 openssl	1:3.6.5	arm	pool/openssl_1-3.6.5_arm.tar.gz	d6395ae4f7fba28843556c9af43e6646140194c73c76eb6d07ea58539232baba	2270145	ca-certificates,zlib	Library implementing the SSL and TLS protocols as well as general purpose cryptography functions
-openssl	1:3.6.5	aarch64	pool/openssl_1-3.6.5_aarch64.tar.gz	b338cb44c3730a8eca63d661b7fbf628b905b4c43b01657cb77691c335871dca	3185792	ca-certificates,zlib	Library implementing the SSL and TLS protocols as well as general purpose cryptography functions
+openssl	1:3.6.5	aarch64	pool/openssl_1-3.6.5_aarch64.tar.gz	40812f1f97e5e676ca0f37404442da1c59e1fd87b51d30f7a01f0e08185c9af8	3198139	ca-certificates,zlib	Library implementing the SSL and TLS protocols as well as general purpose cryptography functions
 pcre2	10.49	arm	pool/pcre2_10.49_arm.tar.gz	57376fab7b0bccbf2222e39032c27d78ac6ac3c918ea493f93aa6f8e47038508	1449870	-	Perl 5 compatible regular expression library
-pcre2	10.49	aarch64	pool/pcre2_10.49_aarch64.tar.gz	f7229b360b9b6f02c519cd0e886b43dd71dbb85513c9661cdff28c5b1428c548	1525860	-	Perl 5 compatible regular expression library
+pcre2	10.49	aarch64	pool/pcre2_10.49_aarch64.tar.gz	8e2b9383c0da4ea83d534b660d7bab4c0dee658a5198c5f27ec18145726f048f	1531579	-	Perl 5 compatible regular expression library
 php	8.5.1	arm	pool/php_8.5.1_arm.tar.gz	ee4e35a27e946015223fc95441c6f3dc1855e93569d8c068673f3b094ff49b76	13936180	capstone,libandroid-glob,libandroid-support,libbz2,libc++,libcurl,libffi,libgmp,libiconv,libicu,libresolv-wrapper,libsqlite,libxml2,libxslt,libzip,oniguruma,openssl,pcre2,readline,tidy,zlib	Server-side, HTML-embedded scripting language
 python	3.14.6-1	arm	pool/python_3.14.6-1_arm.tar.gz	264618d903efdb866c8c4eb2d4d97d190b1d0aa49b633f247f9dd59366fe73a5	6459139	gdbm,libandroid-posix-semaphore,libandroid-support,libbz2,libcrypt,libexpat,libffi,liblzma,libsqlite,ncurses,ncurses-ui-libs,openssl,readline,zlib,zstd	Python 3 programming language intended to enable clear programs
 python	3.14.6-1	aarch64	pool/python_3.14.6-1_aarch64.tar.gz	897af2956d3f0feceb9e1f2ae717f6c96f07b90d7b679b91bdef1c0c97dfb48c	6802150	gdbm,libandroid-posix-semaphore,libandroid-support,libbz2,libcrypt,libexpat,libffi,liblzma,libsqlite,ncurses,ncurses-ui-libs,openssl,readline,zlib,zstd	Python 3 programming language intended to enable clear programs
@@ -262,8 +262,8 @@ resolv-conf	1.3	aarch64	pool/resolv-conf_1.3_aarch64.tar.gz	7322587f7faaf172a950
 rubberband	4.0.0-1	arm	pool/rubberband_4.0.0-1_arm.tar.gz	32afdf2365ac53e4239f9731901b31ac19685442099366d605c513b484c6975b	460677	fftw,libc++,libsamplerate,libsndfile	An audio time-stretching and pitch-shifting library and utility program
 rubberband	4.0.0-1	aarch64	pool/rubberband_4.0.0-1_aarch64.tar.gz	df70bb4d859aaadc25af8bea15f5564b1e1d66adfc98177fdf020ff856e5b9f7	586518	fftw,libc++,libsamplerate,libsndfile	An audio time-stretching and pitch-shifting library and utility program
 ruby	4.0.7	arm	pool/ruby_4.0.7_arm.tar.gz	09b3813cb2a383a5cbc39781a0fba6f6af57634550980008a16e0c55bf00f5b0	12603130	libandroid-execinfo,libandroid-support,libffi,libgmp,readline,openssl,libyaml,zlib	Dynamic programming language with a focus on simplicity and productivity
-rust	1.99.0	arm	pool/rust_1.99.0_arm.tar.gz	5c12638bc81258c560d8f02e28dd8c3ed38078cbbed4710df820e4957b50b315	87078065	clang,libandroid-execinfo,libc++,libllvm,lld,openssl,zlib,rust-std-armv7-linux-androideabi	Systems programming language focused on safety, speed and concurrency
-rust	1.99.0	aarch64	pool/rust_1.99.0_aarch64.tar.gz	27905c53c664df99813634f5338845bc64c9142b00b9c2cd34a3695c2ab9157b	98420350	clang,libandroid-execinfo,libc++,libllvm,lld,openssl,zlib,rust-std-aarch64-linux-android	Systems programming language focused on safety, speed and concurrency
+rust	1.99.0	arm	pool/rust_1.99.0_arm.tar.gz	9cb6a4e72e433f4431764d561c1ccc05b745a6b0002d7f9e4af1fdbde323bac6	87246690	clang,libandroid-execinfo,libc++,libllvm,lld,openssl,zlib,rust-std-armv7-linux-androideabi	Systems programming language focused on safety, speed and concurrency
+rust	1.99.0	aarch64	pool/rust_1.99.0_aarch64.tar.gz	38a51e742844d46029da147109121f32e822d3742c5b130db54347292ea63941	98735058	clang,libandroid-execinfo,libc++,libllvm,lld,openssl,zlib,rust-std-aarch64-linux-android	Systems programming language focused on safety, speed and concurrency
 rust-std-aarch64-linux-android	1.99.0	aarch64	pool/rust-std-aarch64-linux-android_1.99.0_aarch64.tar.gz	b69ecbf7fc3f593dd132ae27586e000d68dcf47f4536dc8b2619244454eda257	7221264	-	Component files for target aarch64-linux-android
 rust-std-armv7-linux-androideabi	1.99.0	arm	pool/rust-std-armv7-linux-androideabi_1.99.0_arm.tar.gz	01427f77f51c3fe241bddce1379569b825d07804f5b012030602d44c8312c643	7295240	-	Component files for target armv7-linux-androideabi
 svt-av1	4.2.0	arm	pool/svt-av1_4.2.0_arm.tar.gz	f2c77e832ad8f0111d446d7cd83c67c609e535a526da609bcad3a954e79193dd	1173073	-	Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)
@@ -286,6 +286,6 @@ xvidcore	1.3.7-1	arm	pool/xvidcore_1.3.7-1_arm.tar.gz	0eb06cea6e15307679410533cd
 xvidcore	1.3.7-1	aarch64	pool/xvidcore_1.3.7-1_aarch64.tar.gz	addfc2a4e72b3681e15c3766f70c726464b3e2817032990501ff4b2d5c8e5f2a	167578	-	High performance and high quality MPEG-4 library
 zip	3.0-7	arm	pool/zip_3.0-7_arm.tar.gz	378a1057fe17ebc15cc82245f3ca32661df964558090f1f31f7ebdfc0f243936	243129	libandroid-support,libbz2	Tools for working with zip files
 zlib	1.3.2	arm	pool/zlib_1.3.2_arm.tar.gz	c417d3010399d6ecce0c115ee99fdb8179436b52f824fc3fb3dbdca14b9fa54e	71688	-	Compression library implementing the deflate compression method found in gzip and PKZIP
-zlib	1.3.2	aarch64	pool/zlib_1.3.2_aarch64.tar.gz	dd9e54c7da2c6cff47cf157102c380b83727a74b85c4dce4e51431fbd4d313be	74696	-	Compression library implementing the deflate compression method found in gzip and PKZIP
+zlib	1.3.2	aarch64	pool/zlib_1.3.2_aarch64.tar.gz	8008d82afe27c14f1d775a418c46962e3a7b6f0f8be67db15f9aa1664cb11aaa	75042	-	Compression library implementing the deflate compression method found in gzip and PKZIP
 zstd	1.5.7-1	arm	pool/zstd_1.5.7-1_arm.tar.gz	5a4036975cba3a2d725309892e9cbf3f4ca574195c0bf8c13f709bdbbdde8f0d	497660	liblzma,zlib	Zstandard compression
-zstd	1.5.7-1	aarch64	pool/zstd_1.5.7-1_aarch64.tar.gz	1be77d2c5c6ef73291606a746fae190ed76027058f789d90ee7c426ef69d180b	472949	liblzma,zlib	Zstandard compression
+zstd	1.5.7-1	aarch64	pool/zstd_1.5.7-1_aarch64.tar.gz	7f64880cd9357dac6f32428b081d505a17048cc5ed5ff3cb5089d82d565e9b60	473871	liblzma,zlib	Zstandard compression
